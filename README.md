@@ -12,7 +12,7 @@ reference code [ML-train.py](code/ML-train.py) \
 model: ['GBDT','LR','nbayes','NN','RF','SVM']
 
 # 4. do test, use vote
-reference code [do_test_model_vote.py](code/do_test_model_vote.py)[ML-train.py](code/ML-train.py)
+reference code [do_test_model_vote.py](code/do_test_model_vote.py)
 
 # 5. do predeciton
 reference code [do_prediction.py](code/do_prediction.py) \
